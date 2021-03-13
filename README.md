@@ -51,3 +51,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ### EBS ENDPOINT
+http://mikeg-udagram-image-filter-project-dev.us-east-2.elasticbeanstalk.com/
